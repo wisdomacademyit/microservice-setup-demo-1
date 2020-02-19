@@ -1,0 +1,8 @@
+server:
+  port: 8081
+  
+test:
+  admin:
+    prop:
+      Admin Service Props
+      

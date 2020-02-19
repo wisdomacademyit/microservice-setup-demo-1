@@ -1,0 +1,8 @@
+server:
+  port: 8082
+  
+test:
+  product:
+    prop:
+      Product Service Props
+      
